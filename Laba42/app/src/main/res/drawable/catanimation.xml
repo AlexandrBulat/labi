@@ -1,0 +1,14 @@
+<animation-list
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item android:drawable="@drawable/fitness1" android:duration="250"/>
+    <item android:drawable="@drawable/fitness2" android:duration="250"/>
+    <item android:drawable="@drawable/fitness3" android:duration="250"/>
+    <item android:drawable="@drawable/fitness4" android:duration="250"/>
+    <item android:drawable="@drawable/fitness5" android:duration="250"/>
+    <item android:drawable="@drawable/fitness6" android:duration="250"/>
+    <item android:drawable="@drawable/fitness7" android:duration="250"/>
+    <item android:drawable="@drawable/fitness8" android:duration="250"/>
+    <item android:drawable="@drawable/fitness9" android:duration="250"/>
+    <item android:drawable="@drawable/fitness10" android:duration="250"/>
+</animation-list>
